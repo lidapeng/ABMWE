@@ -1,0 +1,27 @@
+﻿Build started 1/29/2015 5:33:46 PM.
+     1>Project "D:\Project\Triggers\ABMWE\ABMWE\ABMWE.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\ABMWE.unsuccessfulbuild".
+       CustomBuild:
+         Moc'ing abmwe.h...
+         The system cannot find the path specified.
+         Uic'ing abmwe.ui...
+         The system cannot find the path specified.
+         Moc'ing FireSimulator.h...
+         The system cannot find the path specified.
+         Moc'ing mainwindowview.h...
+         The system cannot find the path specified.
+         Moc'ing configdialog.h...
+         The system cannot find the path specified.
+         Rcc'ing abmwe.qrc...
+         The system cannot find the path specified.
+         Uic'ing configdialog.ui...
+         The system cannot find the path specified.
+         Uic'ing mainwindowview.ui...
+         The system cannot find the path specified.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppCommon.targets(151,5): error MSB6006: "cmd.exe" exited with code 3.
+     1>Done Building Project "D:\Project\Triggers\ABMWE\ABMWE\ABMWE.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.08

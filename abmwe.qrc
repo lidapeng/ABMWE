@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="/ABMWE">
+    <file>draghand.png</file>
+    <file>exportmap.png</file>
+    <file>help.png</file>
+    <file>buffer.png</file>
+    <file>reset.png</file>
+    <file>importdata.png</file>
+    <file>pause.png</file>
+    <file>configureModel.png</file>
+    <file>point1.png</file>
+    <file>run.png</file>
+    <file>return.png</file>
+    <file>zoomin.png</file>
+    <file>zoomout.png</file>
+    <file>Resources/newfile.png</file>
+    <file>Resources/openfile.png</file>
+    <file>Resources/savefile.png</file>
+  </qresource>
+</RCC>
